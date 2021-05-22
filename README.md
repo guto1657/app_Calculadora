@@ -2,6 +2,8 @@
 🔢 Calculadora
 </h1>
 
+![1621654800107](https://user-images.githubusercontent.com/70277574/119213549-488d1b80-ba96-11eb-9242-afee9cea48c7.png)
+
 <h4 align="center">
   Projeto de uma Calculadora que realiza soma, subtração, multiplicação e divisão.
 </h4>
