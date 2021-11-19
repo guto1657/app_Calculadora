@@ -1,21 +1,23 @@
 <h1 align="center">
-⚛️ First React App
+🔢 Calculadora
 </h1>
 
 
 <h4 align="center">
-  Simple react application with the objective of receiving data from an external API and displaying this data on the screen as posts.
+  Projeto de uma Calculadora que realiza soma, subtração, multiplicação e divisão.
 </h4>
 
-## 🛠 Technologies
-for the development of this project the following technologies where used:
-- Visual Studio Code;
+## 🛠 Tecnologias utilizadas
+Para o desenvolvimento deste site utilizei as seguintes tecnologias:
+- Visual Studio Code (Editor de código);
 - HTML5;
 - CSS3;
-- React;
+- Bootstrap;
 - JavaScript;
 ---
 
-project hosted on netlify:
+### :airplane: Acesse o projeto
 
+Hospedado no GitHub Pages
 
+https://guto1657.github.io/app_Calculadora/
